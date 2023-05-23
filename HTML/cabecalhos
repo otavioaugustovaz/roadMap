@@ -1,0 +1,4 @@
+Cabeçalhos são normalmente utilizados para identificar páginas e seções e possuem aparência diferenciada do restante do texto. No HTML há seis níveis de cabeçalhos/títulos que podem ser utilizados por meio das tags h1, h2, h3, h4, h5 e h6, sendo h1 o maior/mais relevante e h6 o menor/menos relevante.
+
+"De acordo com as regras de SEO, é recomendado que uma página possua apenas uma tag <h1> que indique seu assunto, pois essa tag informa aos motores de busca qual sua principal palavra-chave."
+
